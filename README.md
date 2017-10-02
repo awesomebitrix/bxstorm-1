@@ -4,5 +4,5 @@
 * bxegetl - CIBlockElement::GetList(..)
 * bxpe - require_once prolog_before.php and epilog_after.php
 * bxcmp - $APPLICATION->IncludeComponent(..)
-* bxmod - CModule::IncludeModule(...)
+* bxmod - CModule::IncludeModule(..)
 * bxphpc - CPHPCache(..)
